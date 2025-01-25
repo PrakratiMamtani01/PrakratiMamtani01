@@ -1,6 +1,6 @@
 ## Hi I'm Prakrati Mamtani 👋
 
-Software Engineer | FrontEnd Developer | Open-Source Enthusiast
+Software Engineer | FrontEnd Developer
 
 **About Me**
 
