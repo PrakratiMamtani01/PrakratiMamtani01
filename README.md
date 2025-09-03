@@ -4,7 +4,7 @@ Software Engineer | FrontEnd Developer
 
 **About Me**
 
-- 🌱 I'm an undergraduate at New York University Abu Dhabi in my last year for Computer Science with a minor.
+- 🌱 I'm an undergraduate at New York University Abu Dhabi in my last year for Computer Science.
 - 🔍 I'm an aspiring Product Manager with a background in Software Engineering.
 - 🔭 Consistency drives me; I have recently completed a 30 days design challenge creating UI design for variety of things starting from login-page to boarding passes.
 - 📌 Currently, I’m exploring the product management space, learning how to translate user needs into product strategies, prioritize features, and balance technical feasibility with business impact.
