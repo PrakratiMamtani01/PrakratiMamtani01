@@ -1,11 +1,11 @@
 ## Hi I'm Prakrati Mamtani 👋
 
-Software Engineer | FrontEnd Developer
+Software Engineer | Full-stack Developer | Product Manager
 
 **About Me**
 
-- 🌱 I'm an undergraduate at New York University Abu Dhabi in my last year for Computer Science.
-- 🔍 I'm an aspiring Product Manager with a background in Software Engineering.
+- 🌱 Senior at New York University Abu Dhabi pursuing B.Sc. Computer Science and a minor in Mathematics & Interactive Media.
+- 🔍 Aspiring Product Manager with a background in Software Engineering.
 - 🔭 Consistency drives me; I have recently completed a 30 days design challenge creating UI design for variety of things starting from login-page to boarding passes.
 - 📌 Currently, I’m exploring the product management space, learning how to translate user needs into product strategies, prioritize features, and balance technical feasibility with business impact.
 - ⚡ I'm a life-long learner, always seeking to improve my skills and stay updated with the latest technologies. I love taking on new challenges and exploring different areas of tech.
