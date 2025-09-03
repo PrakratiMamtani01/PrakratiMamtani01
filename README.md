@@ -4,9 +4,10 @@ Software Engineer | FrontEnd Developer
 
 **About Me**
 
-- 🔍 I'm interested in Software Developer, UI/UX designer, and Digital Marketing role.
-- 🔭 I’m currently working on Figma to produce designs and mockups for UI/UX portfolio case studies.
-- 🌱 I'm an undergraduate at New York University Abu Dhabi in my penultimate year for Computer Science with a minor in Interactive Media and Applied Mathematics. To expand my knowledge I've developed various projects using React, Flutter and other technologies. I've also been an assistant in several researches and secured an internship role at a Fintech start-up Zywa.
+- 🌱 I'm an undergraduate at New York University Abu Dhabi in my last year for Computer Science with a minor.
+- 🔍 I'm an aspiring Product Manager with a background in Software Engineering.
+- 🔭 Consistency drives me; I have recently completed a 30 days design challenge creating UI design for variety of things starting from login-page to boarding passes.
+- 📌 Currently, I’m exploring the product management space, learning how to translate user needs into product strategies, prioritize features, and balance technical feasibility with business impact.
 - ⚡ I'm a life-long learner, always seeking to improve my skills and stay updated with the latest technologies. I love taking on new challenges and exploring different areas of tech.
 - 💻 I have experience in full-stack development, working with technologies like React, Angular, Node.js, Flutter, APIs, and MongoDB. I enjoy creating dynamic, responsive, and user-friendly web applications that solve real-world problems.
 - ⚡ Fun fact: you can find myself practising dance moves in front of any mirror. 
